@@ -9,6 +9,7 @@
   - What if the AI generates a maze or something for the player to navigate through?
 - Platformer game (mario clone?) but which uses AI to randomly generate levels?
 - Make the game multiplayer
+- Maybe save data on the blockchain?
 
 ## Resources / References
 
