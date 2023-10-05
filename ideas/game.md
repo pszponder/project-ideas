@@ -9,6 +9,7 @@
   - What if the AI generates a maze or something for the player to navigate through?
 - Platformer game (mario clone?) but which uses AI to randomly generate levels?
 - Make the game multiplayer
+- Maybe save data on the blockchain?
 
 ## Resources / References
 
@@ -18,3 +19,4 @@
 - [Udemy - Coding with Russ - Complete Pygame Tutorial - Create Dungeon Crawler](https://www.udemy.com/course/pygame-dungeon-crawler/)
 - [Clear Code - Creating a Stardew Valley inspired game in Python](https://www.youtube.com/watch?v=T4IX36sP_0c)
 - [Clear Code - Pygame Fundamentals](https://www.youtube.com/playlist?list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
+- [Clear Code Mario in Python with Pygame (and pirates)](https://www.youtube.com/playlist?list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-)
