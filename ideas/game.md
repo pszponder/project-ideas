@@ -20,3 +20,4 @@
 - [Clear Code - Creating a Stardew Valley inspired game in Python](https://www.youtube.com/watch?v=T4IX36sP_0c)
 - [Clear Code - Pygame Fundamentals](https://www.youtube.com/playlist?list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
 - [Clear Code Mario in Python with Pygame (and pirates)](https://www.youtube.com/playlist?list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-)
+- [Net Ninja - Pygame Tetris](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iurLoO9Mu7GqsKlxEXcf8m)
