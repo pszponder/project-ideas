@@ -22,4 +22,5 @@
 - [Clear Code - Pygame Fundamentals](https://www.youtube.com/playlist?list=PL8ui5HK3oSiHnIdi0XIAVXHAeulNmBrLy)
 - [Clear Code Mario in Python with Pygame (and pirates)](https://www.youtube.com/playlist?list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-)
 - [Net Ninja - Pygame Tetris](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iurLoO9Mu7GqsKlxEXcf8m)
+- [Net Ninja - Pygame Build a Snake Clone](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i8QFqkUEkLirIGsaNLrDrS)
 - [Coding with Russ - Get Started in Pygame in 10 Minutes](https://www.youtube.com/watch?v=y9VG3Pztok8)
