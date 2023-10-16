@@ -24,3 +24,5 @@
 - [Net Ninja - Pygame Tetris](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iurLoO9Mu7GqsKlxEXcf8m)
 - [Net Ninja - Pygame Build a Snake Clone](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i8QFqkUEkLirIGsaNLrDrS)
 - [Coding with Russ - Get Started in Pygame in 10 Minutes](https://www.youtube.com/watch?v=y9VG3Pztok8)
+- [freeCodeCamp - Godot Tutorial for Unity Developers](https://www.youtube.com/watch?v=1EFKe24X8vI)
+- [freeCodeCamp - Godot Game Development - Crash Course for Beginners](https://www.youtube.com/watch?v=S8lMTwSRoRg)
