@@ -26,3 +26,4 @@
 - [Coding with Russ - Get Started in Pygame in 10 Minutes](https://www.youtube.com/watch?v=y9VG3Pztok8)
 - [freeCodeCamp - Godot Tutorial for Unity Developers](https://www.youtube.com/watch?v=1EFKe24X8vI)
 - [freeCodeCamp - Godot Game Development - Crash Course for Beginners](https://www.youtube.com/watch?v=S8lMTwSRoRg)
+- [Coding w/ Russ - How to Make a Google Chrome T-Rex Style Sidescroller In Godot | Beginner Tutorial](https://www.youtube.com/watch?v=nKBhz6oJYsc)
