@@ -17,6 +17,8 @@ Create a logging microservice which can receive logs from other services and pro
   - Filter logs
   - Sort logs
   - View logs for multiple services at the same time
+  - Setup alert system
+  - View logs on a dashboard
 - Enable API for other microservices to send logs
   - REST?
   - Streams (via Kafka?)
