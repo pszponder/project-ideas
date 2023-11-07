@@ -1,5 +1,67 @@
 # General / Unformulated Ideas
 
+- **Random Quote Generator:**
+  - Generate and display a random inspirational quote from a pre-defined list
+  - Make API calls to request quotes
+  - Make a separate service to host a db and contain quotes, then a cli to retrieve the quotes
+- **Countdown / Pomodoro Timer:**
+  - User can input time, program counts down to zero
+- **REST API Weather Dashboard:**
+  - Build a RESTfulservice that can fetch and display weather data from an external API
+- **File Renamer:**
+  - Script to bulk rename files in a directory according to defined pattern or rule set
+- **Directory Tree Generator:**
+  - Generate a visual tree structure of the dictionary provided by the user
+- **Random Password Generator / Manager:**
+  - Generate, store, and retrieve passwords securely
+- **Expense / Budget Tracker:**
+  - Input, categorize, and save expenses to a file
+  - Review monthly expenses in summary form
+  - Import or export data
+- **Bookmark Manager:**
+  - Save, retrieve, and categorize bookmarks with options to open them in a browser
+- **Contact Manager:**
+  - CLI to add, search, edit, and delete contact details
+  - Store info in db (like sqlite3)
+- **Blogging Tool:**
+  - Users can create, edit, and view blog posts in the terminal
+- **File Backup Script:**
+  - A script to backup certain directories to another location, with incremental backup support
+- **Recipe Manager:**
+  - Manage a collection of recipes, with options to add, delete, and search for recipes
+- **CLI File Manager:**
+  - CRUD operations to manage files and directories
+- **Personal Finance Planner:**
+  - Plan and track budgets, investments, and expenses over time, with simple reporting features
+- **Code Snippet Manager:**
+  - Save and categorize useful code snippets with search functionality
+- **Text-based RPG:**
+  - Create a rgp played in the terminal with different characters and storylines
+  - Try to incorporate AI as a "dungeon master"
+- **Git Logs Analyzer:**
+  - Parse and analyze Git logs to summarize developer activity and commit patterns
+- **Music Library Organizer:**
+  - Organize music files, edit metadata, and create playlists
+- **Automated Website monitor:**
+  - Monitor changes to web pages and get notified of updates or outages
+- **Cryptocurrency Portfolio Tracker:**
+  - Track cryptocurrency investments and calculate gains or losses in real-time
+- **SSH Connection Manager:**
+  - Manage and initialize SSH connections with multiple servers
+- **Language Learning Tool:**
+  - A flashcard-based learning tool for vocabulary with spaced repetition algorithms
+- **CLI-Based Social Media Dashboard:**
+  - Interact with APIs of social media platforms to display and send posts, follow trends, etc.
+- **RSS Feed Aggregator:**
+- **Database Management System:**
+  - CLI tool to interact with and manage SQL databases, providing functionalities such as backup, restore, and query execution
+- **Network Scanner:**
+  - Scans the network for devices or open ports
+- **Database Migration Tool:**
+  - Create a tool that can transfer data between different types of databases (ex. SQLite to Postgres, Postgresql to MongoDB, ...)
+- **Data Quality Checker:**
+  - Develop a system that checks the quality of datasets by looking for missing values, duplicates, or incorrect data
+
 ## Resources / References
 
 - [GitHub - Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)
